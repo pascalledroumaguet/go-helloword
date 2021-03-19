@@ -1,4 +1,6 @@
-# Entities structures
+"""
+Entities structures
+"""
 import sqlalchemy
 
 from db.db_base import metadata
